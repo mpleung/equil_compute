@@ -1,4 +1,4 @@
-This repository contains replication files for "Equilibrium Computation in Discrete Network Games". The files were coded for Python 3 and require the following dependencies: numpy, scipy, networkx, pandas, and [snap](https://snap.stanford.edu/snappy/index.html).
+This repository contains replication files for "Equilibrium Computation in Discrete Network Games." The files were coded for Python 3 and require the following dependencies: numpy, scipy, networkx, pandas, and [snap](https://snap.stanford.edu/snappy/index.html).
 
 Contents:
 * sims\_binary.py: binary choice numerical illustration.
